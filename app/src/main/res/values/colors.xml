@@ -3,7 +3,7 @@
     <color name="black">#FF2C2C2C</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="theme_color_dark">#3A574F</color>
+    <color name="theme_color_dark">#4C7368</color>
     <color name="theme_color_mid">#A5D5CD</color>
-    <color name="theme_color_light">#C7E4DF</color>
+    <color name="theme_color_light">#D8F3EE</color>
 </resources>

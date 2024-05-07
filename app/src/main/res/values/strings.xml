@@ -3,4 +3,11 @@
 
     <string name="home">Home</string>
     <string name="setting">Setting</string>
+
+    <string name="rating">Give us praise</string>
+    <string name="share">Share our application</string>
+    <string name="whatsapp">Download WhatsApp</string>
+    <string name="link">https://play.google.com/store/apps/details?id=</string>
+    <string name="whatsApp_link">https://play.google.com/store/apps/details?id=com.whatsapp</string>
+
 </resources>
